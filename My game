@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+    <meta charset="UTF-8">
+    <title>My New Awesome Game</title>
+    <style>
+            canvas{
+                position: absolute;
+                margin: auto;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+            }
+        </style>
+    <head><h1 align=center color=#4455ff font="Helvetica">This is my new awesome Game!</h1>  
+    </head>
+    <body>
+        <script src="./logic.js"></script>
+    </body>
+</html>
